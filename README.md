@@ -11,3 +11,13 @@ See [info.md](info.md) for full brand, audience, and messaging details.
 - `index.html`, `site/`, `deploy/`, `fresh/`, `vpsite/` — static site builds
 - `app/` — React + TypeScript + Vite source for the site
 - `assets/` — shared images and assets
+
+## Development
+
+To run the React app locally:
+
+```sh
+cd app
+npm install
+npm run dev
+```
